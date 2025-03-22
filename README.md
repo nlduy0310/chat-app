@@ -1,6 +1,6 @@
-# ANOTHER CHAT APP
+# ANOTHER CHAT APP - I'LL CALL IT DIALOGS
 
->>>>> ### *A personal web project I am making to learn advanced backend concepts.*
+> > > > > ### _A personal web project I am making to learn advanced backend concepts._
 
 ## HIGH LEVEL ARCHITECTURE
 
